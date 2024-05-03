@@ -3,7 +3,9 @@ import prince
 import matplotlib.pyplot as plt
 import numpy as np
 
-dataset = pd.read_csv('MH_CLD.csv')
+dataset = pd.read_csv('dataset from the website')
+#the dataset is from 'https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2021-mh-cld-2021-ds0001#:~:text=Client%2DLevel%20Mental%20Health%20Data&text=MH%2DCLD%20and%20the%20Mental,in%20mental%20health%20treatment%20facilities.'
+
 selected_columns = ["AGE", "EDUC", "ETHNIC", "RACE", "GENDER", "MARSTAT", "EMPLOY", "LIVARAG", "REGION"]
 filtered_data = dataset[(dataset[selected_columns] != -9).all(axis=1) & (dataset['TRAUSTREFLG'] != 0)]
 
