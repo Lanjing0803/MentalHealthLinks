@@ -3,8 +3,8 @@
 Mental disorders are a significant global concern, impacting millions of lives worldwide, from depression to schizophrenia. Given their complexity and prevalence, understanding the connections between different disorders is crucial for developing effective prevention strategies, interventions, and treatments.
 This project explores these connections and influencing factors, providing insights accessible to the general public. It delves into two key questions: How do various mental health disorders interconnect, and what factors influence them?
 
-View [lanjing0803.github.io/da3.html](https://lanjing0803.github.io/mental.html) For Details.
--`mental.pdf`: Pratt Info Show Poster
+View [lanjing0803.github.io/da3.html](https://lanjing0803.github.io/mental.html) for project details.
+View Pratt Info Show Poster [mental.pdf].
 
 ## Description
 
