@@ -40,5 +40,3 @@ The clustering is based on the matrix of Hamming distance, which measures how si
 
 
 - `EDA/mca.py`: Using Multivariate Correspondence Analysis (MCA) techniques, I navigated through mental health client-level dataset from SAMHA, to uncover hidden patterns between demographic metrics such as age and gender, and mental health disorders. Utilizing cosine similarity, a pivotal metric in data analysis, I precisely quantify the strength of these relationships, ranging from 0 to 1. A value nearing 1 indicates a higher relation strength, signifying a closer association between demographic factors and specific mental health conditions. 
-
-- `cosine/chord_cs.html`: Interactive Visualization for MCA analysis.
