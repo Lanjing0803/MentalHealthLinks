@@ -4,7 +4,7 @@ Mental disorders are a significant global concern, impacting millions of lives w
 This project explores these connections and influencing factors, providing insights accessible to the general public. It delves into two key questions: How do various mental health disorders interconnect, and what factors influence them?
 
 View [lanjing0803.github.io/da3.html](https://lanjing0803.github.io/mental.html) For Details.
-![Pratt Info Show Poster](mental.pdf)
+-`mental.pdf`: Pratt Info Show Poster
 
 ## Description
 
